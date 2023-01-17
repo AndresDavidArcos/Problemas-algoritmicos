@@ -11,11 +11,13 @@ Debido a que la oficina cuenta con múltiples (demasiados) puestos de atención,
 podrían abrirlos todos y atender a los clientes de forma simultánea, sin embargo, se
 quiere calcular el mínimo número de puestos de atención necesarios para atender a
 todos los clientes sin sobrepasar el tiempo de atención T dado.
+
 Entradas:
 - N: 5 -> Número de clientes que llegarán
 - T: 8 -> El tiempo máximo que tiene la oficina para atenderlos a todos.
 - A: [4, 7, 8, 6, 4] -> Un arreglo A, que caracteriza cuánto tiempo toma la
 atención del i-ésimo cliente.
+
 Salida: 4
 Si tenemos 4 oficinas, podemos atender a los clientes de la siguiente manera:
 - El cliente 1 llega al puesto 1, su atención demora 4 unidades de tiempo.
